@@ -1,7 +1,7 @@
 # FFXIV-Macros
 A Collection of Final Fantasy XIV Macros
 
-![Preview](https://youtu.be/fb1xdZil7-g)
+<img src="https://youtu.be/fb1xdZil7-g">
 
 
 ## Table of Contents
