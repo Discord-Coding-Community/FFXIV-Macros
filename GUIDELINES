@@ -12,6 +12,8 @@ Macros
   - Line 5: [EMPTY LINE]
   - Line 6: [DETAILS]
 
+A Example Macro folder showing the proper folder heirarchy and format can be found in each of the Macro (sub)folders
+
 Note: Brackets [] refer to text to replace, quotes "" refer to text that MUST remain. DO NOT inclue the [] or "" in the README.md file, just replace the necessary fields as instructed.
 
 Failure to abide by the above Rules and/or Guildelines will result in macros being pulled from the repository
