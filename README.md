@@ -1,7 +1,7 @@
-<a href="https://square-enix-games.com/ffxiv-origami/images/logo.png" alt="https://square-enix-games.com/ffxiv-origami/images/logo.png">
 
 # FFXIV-Macros
 A Collection of Final Fantasy XIV Macros
+<a href="https://square-enix-games.com/ffxiv-origami/images/logo.png" alt="https://square-enix-games.com/ffxiv-origami/images/logo.png">
 
 ## Table of Contents
 
