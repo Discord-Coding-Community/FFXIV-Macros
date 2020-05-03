@@ -1,8 +1,6 @@
+![PREVIEW](https://media1.tenor.com/images/f25bf0236e02814a38701addf44aadb4/tenor.gif)
 # FFXIV-Macros
 A Collection of Final Fantasy XIV Macros
-
-<img src="https://youtu.be/fb1xdZil7-g">
-
 
 ## Table of Contents
 
