@@ -1,5 +1,5 @@
 
-<img src="https://square-enix-games.com/ffxiv-origami/images/logo.png" alt="https://square-enix-games.com/ffxiv-origami/images/logo.png">
+<img src="https://wallpapercave.com/wp/wp4432959.png" alt="https://wallpapercave.com/wp/wp4432959.png">
 
 # FFXIV-Macros
 A Collection of Final Fantasy XIV Macros
