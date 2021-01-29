@@ -1,0 +1,7 @@
+/macroerror off
+/micon "Miasma"
+/ac "Bane" <t>
+/wait 1
+/ac "Bio" <t>
+/wait 1
+/ac "Miasma"

@@ -1,0 +1,5 @@
+/macroerror off
+/micon "Summon II"
+/ac "Swiftcast"
+/wait 1
+/ac "Summon II"
