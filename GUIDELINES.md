@@ -2,9 +2,12 @@
 Use of this repository is subject to the following Rules and/or Guidelines
 
 Macros
- - All macros MUST be placed into the appropriate (sub)folder
- - All macros MUST be kept up to date
- - All macros must have their own subfolder and README.md file using the following format:
+ - All Macro files **MUST** be placed into the appropriate (sub)folder
+ - All Macro files **MUST** be kept up to date
+ - All Macro files **MUST** have their own subfolder and `README.md` file
+
+
+The format for Macro files is as follows:
 
 ```
 # [MACRO NAME]
@@ -19,7 +22,7 @@ Macros
 ```
  - Add a new line for each skill and make sure to follow the format
 
-The Folder format for Macros is as follows:
+The Folder format for Macro files is as follows:
 
 ```
   > [MACRO NAME]
@@ -30,6 +33,6 @@ The Folder format for Macros is as follows:
 ### Note
  Brackets `[]` refer to text to replace. DO NOT include the `[]` in the `README.md` file, just replace the necessary fields as instructed.
 
-These Guidelines are in place to keep the repo clean and manageable. So please be sure to abide by them when suggesting new Macros.
+These Guidelines are in place to keep the repo clean and manageable. So please be sure to abide by them when suggesting new Macro files.
 
-Failure to abide by the above Rules and/or Guildelines will result in said Macros being deleted and/or rejected.
+Failure to abide by the above Rules and/or Guildelines will result in said Macro files being deleted and/or rejected.
