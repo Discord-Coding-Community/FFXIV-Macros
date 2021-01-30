@@ -3,7 +3,7 @@ name: Macro Error
 about: Report a broken or outdated Macro
 title: "[MACRO_ERROR]"
 labels: bug
-assignees: PhantomNimbi
+assignees: FFXIV Team
 
 ---
 
