@@ -1,5 +1,5 @@
 /macroerror off
-/micon "Summon"
+/micon "Physick"
 /ac "Swiftcast" <me>
 /wait 2
-/ac "Summon" <me>
+/ac "Physick" <t>

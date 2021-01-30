@@ -1,7 +1,7 @@
 /macroerror off
-/micon "Miasma"
+/micon "Bane"
 /ac "Bane" <t>
-/wait 1
+/wait 2
 /ac "Bio" <t>
-/wait 1
+/wait 2
 /ac "Miasma"
