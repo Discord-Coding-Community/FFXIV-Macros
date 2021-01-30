@@ -2,18 +2,31 @@
 Use of this repository is subject to the following Rules and/or Guidelines
 
 Macros
-- All macros MUST be placed into the apprpriate (sub)folder
-- All macros MUST be kept up to date
-- All macros must have their own subfolder and README.md file using the following format:
-  - Line 1: "## [MACRO NAME]"
-  - Line 2: "Created by [GITHUB NAME] - [INGAME NAME]"
-  - Line 3: [EMPTY_LINE]
-  - Line 4: "## Details"
-  - Line 5: [EMPTY LINE]
-  - Line 6: [DETAILS]
+ - All macros MUST be placed into the appropriate (sub)folder
+ - All macros MUST be kept up to date
+ - All macros must have their own subfolder and README.md file using the following format:
 
-A Example Macro folder showing the proper folder heirarchy and format can be found in each of the Macro (sub)folders
+```
+# [MACRO NAME]
+   
+## Skills Used
+   
+  - [SKILL NAME]
+  
+## Icon Used
 
-Note: Brackets [] refer to text to replace, quotes "" refer to text that MUST remain. DO NOT inclue the [] or "" in the README.md file, just replace the necessary fields as instructed.
+  - [ICON NAME]
+```
+ - Add a new line for each skill and make sure to follow the format
 
-Failure to abide by the above Rules and/or Guildelines will result in macros being pulled from the repository
+The Folder format for Macros is as follows:
+
+```
+  > [MACRO NAME]
+    > data
+      - [MACRO NAME].txt
+    - README.md
+```
+Note: Brackets [] refer to text to replace. DO NOT inclue the [] in the README.md file, just replace the necessary fields as instructed.
+
+Failure to abide by the above Rules and/or Guildelines will result in macros being deleted from the repository.
