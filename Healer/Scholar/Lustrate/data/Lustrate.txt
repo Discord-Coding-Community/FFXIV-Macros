@@ -1,0 +1,4 @@
+/micon "Lustrate"
+/macroerror off
+/ac "Lustrate" <me>
+/ac "Aetherflow" <me>

@@ -1,0 +1,3 @@
+/micon "Sacred Soil"
+/macroerror off
+/ac "Sacred Soil" <t>

@@ -1,6 +1,5 @@
 /macroerror off
 /micon "Resurrection"
 /p "You're not done yet! Get back in there!"
-/ac "Swiftcast" <me>
-/wait 2
+/ac Swiftcast <me> <wait.2>
 /ac "Resurrection" <t>

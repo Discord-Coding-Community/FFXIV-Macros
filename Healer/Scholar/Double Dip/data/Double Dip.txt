@@ -1,4 +1,6 @@
+/macroicon "Miasma"
 /macroerror off
-/micon "Bane" <t> <wait.2>
+/ac "Miasma" <tt>
 /ac "Miasma" <t> <wait.3>
+/ac "Bio" <tt>
 /ac "Bio" <t>

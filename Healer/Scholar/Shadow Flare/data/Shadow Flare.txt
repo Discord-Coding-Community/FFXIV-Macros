@@ -1,0 +1,3 @@
+/micon "Shadow Flare"
+/macroerror off
+/ac "Shadow Flare" <t>

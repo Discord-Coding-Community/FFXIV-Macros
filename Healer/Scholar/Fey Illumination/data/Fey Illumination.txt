@@ -1,0 +1,3 @@
+/micon "Fey Illumination" pet Eos
+/ac "Rouse"
+/pac "Fey Illumination"

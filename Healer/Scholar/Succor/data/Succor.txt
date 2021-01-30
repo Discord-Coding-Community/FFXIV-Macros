@@ -1,0 +1,4 @@
+/micon "Succor"
+/macroerror off
+/ac "Succor"
+/pac "Whispering Dawn"
