@@ -1,0 +1,4 @@
+/micon "Army's Paeon"
+/macroerror off
+/ac "Army's Paeon" <t>
+/ac "Army's Paeon" <mo>
