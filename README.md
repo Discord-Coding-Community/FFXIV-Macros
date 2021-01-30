@@ -11,7 +11,7 @@ Use of this repository is subject to the following Rules and/or Guidelines
  - All Macro files **MUST** be placed into the appropriate (sub)folder
  - All Macro files **MUST** be kept up to date
  - All Macro files **MUST** have their own subfolder and `README.md` file
-    - Add a new line for each skill IN THE `README.md` file and make sure to follow the format
+    - Add a new line for each skill in the `README.md` file and make sure to follow the format
     - The format for Macro `README.md` files is as follows:
 
     ```cs
