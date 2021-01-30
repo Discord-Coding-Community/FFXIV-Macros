@@ -1,7 +1,7 @@
 
 <img src="https://wallpapercave.com/wp/wp4432959.png" alt="https://wallpapercave.com/wp/wp4432959.png">
 
-# FFXIV-Macros
+# FFXIV Macros
 A Collection of Final Fantasy XIV Macros. Read our [GUIDELINES](https://github.com/phantomdev-github/FFXIV-Macros/blob/master/GUIDELINES.md) before contributing new Macro files.
 
 ## Table of Contents
