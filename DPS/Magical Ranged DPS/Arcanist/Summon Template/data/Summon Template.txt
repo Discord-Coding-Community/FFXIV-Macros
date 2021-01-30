@@ -1,7 +1,0 @@
-/macroicon "Summon"
-/macroerror off
-/ac Swiftcast <me> <wait.2>
-/ac "Summon" <me> <wait.2>
-/hotbar Pet "Skill 1" HotBarNumber LocationNumber
-/hotbar Pet "Skill 2" HotBarNumber LocationNumber
-/hotbar Pet "Skill 3" HotBarNumber LocationNumber
