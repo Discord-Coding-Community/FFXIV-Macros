@@ -18,6 +18,8 @@ The format for Macro files is as follows:
 ```cs
 # [MACRO NAME]
    
+ [DESCRIPTION]
+
 ## Skills Used
    
   - [SKILL NAME]
