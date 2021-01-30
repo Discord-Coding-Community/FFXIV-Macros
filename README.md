@@ -36,8 +36,9 @@ The Folder format for Macro files is as follows:
       - [MACRO NAME].txt
     - README.md
 ```
-### Note
- Brackets `[]` refer to text to replace. DO NOT include the `[]` in the `README.md` file, just replace the necessary fields as instructed.
+### Notes
+
+ Brackets `[]` refer to text to replace. **DO NOT** include the `[]` in the `README.md` file, just replace the necessary fields as instructed.
 
 These Guidelines are in place to keep the repo clean and manageable. So please be sure to abide by them when suggesting new Macro files.
 
