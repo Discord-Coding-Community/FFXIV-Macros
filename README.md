@@ -15,7 +15,7 @@ Use of this repository is subject to the following Rules and/or Guidelines
 
 The format for Macro files is as follows:
 
-```
+```cs
 # [MACRO NAME]
    
 ## Skills Used
@@ -30,7 +30,7 @@ The format for Macro files is as follows:
 
 The Folder format for Macro files is as follows:
 
-```
+```cs
   > [MACRO NAME]
     > data
       - [MACRO NAME].txt
