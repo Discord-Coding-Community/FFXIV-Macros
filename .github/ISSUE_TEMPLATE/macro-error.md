@@ -6,10 +6,10 @@ title: "[MACRO_ERROR]"
 ---
 
 ### Describe the Macro Error
-A clear and concise description of what the Macro Error is.
+ - A clear and concise description of what the Macro Error is.
 
 ### Screenshots
-If applicable, add screenshots to help explain your problem.
+ - If applicable, add screenshots to help explain your problem.
 
 ### Additional context
-Add any other context about the problem here.
+ - Add any other context about the problem here.
