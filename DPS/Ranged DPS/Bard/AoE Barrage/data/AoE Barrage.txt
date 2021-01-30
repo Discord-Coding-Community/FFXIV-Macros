@@ -4,4 +4,5 @@
 /ac "Caustic Bite" <t> <wait.2>
 /ac "Stormbite" <t> <wait.2>
 /ac "Shadowbite" <t> <wait.2>
+/ac "Apex Arrow" <t> <wait.2>
 /ac "Rain of Death" <t>

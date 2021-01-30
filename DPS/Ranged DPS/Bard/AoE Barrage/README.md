@@ -8,6 +8,7 @@ Casts a mass of AoE Attacks maximizing damage to the area.
  - Cuastic Bite
  - Stormbite
  - Shadowbite
+ - Apex Arrow
  - Rain of Death
 
 ## Icon Used
