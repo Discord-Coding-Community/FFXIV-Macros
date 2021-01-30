@@ -11,6 +11,7 @@ Use of this repository is subject to the following Rules and/or Guidelines
  - All Macro files **MUST** be placed into the appropriate (sub)folder
  - All Macro files **MUST** be kept up to date
  - All Macro files **MUST** have their own subfolder and `README.md` file
+ - Add a new line for each skill and make sure to follow the format
     - The format for Macro files is as follows:
 
     ```cs
@@ -26,7 +27,6 @@ Use of this repository is subject to the following Rules and/or Guidelines
 
     - [ICON NAME]
     ```
- - Add a new line for each skill and make sure to follow the format
     - The Folder format for Macro files is as follows:
 
     ```cs
