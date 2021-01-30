@@ -9,6 +9,6 @@ Unleashes Misery's End, Bloodletter, Heavy Shot, and Barrage on the targeted pla
  - Heavy Shot
  - Barrage
 
-## Ibon Used
+## Icon Used
 
  - Heavy Shot
