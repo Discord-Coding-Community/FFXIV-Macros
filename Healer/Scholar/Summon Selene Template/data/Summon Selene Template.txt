@@ -1,8 +1,0 @@
-/macroicon "Summon II"
-/macroerror off
-/ac Swiftcast <me> <wait.2>
-/ac "Summon II"
-/hotbar Pet "Silent Dusk" HotBarNumber LocationNumber
-/hotbar Pet "Fey Caress" HotBarNumber LocationNumber
-/hotbar Pet "Fey Wind" HotBarNumber LocationNumber
-/hotbar Pet "Embrace" "Selene" HotBarNumber LocationNumber

@@ -1,0 +1,6 @@
+/micon "Dreadwyrm Trance"
+/macroerror off
+/ac "Enkindle Bahamut"
+/ac "Summon Bahamut"
+/ac "Deathflare"
+/ac "Dreadwyrm Trance"
