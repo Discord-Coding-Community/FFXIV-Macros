@@ -27,6 +27,9 @@ The Folder format for Macros is as follows:
       - [MACRO NAME].txt
     - README.md
 ```
-Note: Brackets [] refer to text to replace. DO NOT inclue the [] in the README.md file, just replace the necessary fields as instructed.
+### Note
+ Brackets `[]` refer to text to replace. DO NOT include the `[]` in the `README.md` file, just replace the necessary fields as instructed.
 
-Failure to abide by the above Rules and/or Guildelines will result in macros being deleted from the repository.
+These Guidelines are in place to keep the repo clean and manageable. So please be sure to abide by them when suggesting new Macros.
+
+Failure to abide by the above Rules and/or Guildelines will result in said Macros being deleted and/or rejected.
