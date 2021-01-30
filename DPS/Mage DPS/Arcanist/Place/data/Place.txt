@@ -1,0 +1,3 @@
+/macroerror off
+/micon "Place" pet
+/pac "Place" <t>
