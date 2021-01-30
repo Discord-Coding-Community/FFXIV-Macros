@@ -1,7 +1,7 @@
 ---
-name: Macro Error
+name: Error
 about: Report a broken or outdated Macro
-title: "[MACRO_ERROR]"
+title: "[ERROR]"
 labels: ''
 assignees: ''
 
