@@ -1,3 +1,5 @@
+/micon Heel pet
+/macroerror off
 /pac Heel
 /pac Place
 /pac Obey
