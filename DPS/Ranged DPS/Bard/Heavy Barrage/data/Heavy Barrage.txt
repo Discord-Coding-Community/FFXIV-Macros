@@ -1,0 +1,6 @@
+
+/macroicon "Heavy Shot"
+/ac "Misery's end" <t>
+/ac "Bloodletter" <t>
+/ac "Heavy Shot" <t>
+/ac "Barrage" <t>

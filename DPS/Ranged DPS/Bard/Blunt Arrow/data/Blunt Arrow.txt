@@ -1,0 +1,4 @@
+/micon "Blunt Arrow"
+/macroerror off
+/ac "Blunt Arrow" <t>
+/p Blunt Arrow <t> Just used it.<se.5>
