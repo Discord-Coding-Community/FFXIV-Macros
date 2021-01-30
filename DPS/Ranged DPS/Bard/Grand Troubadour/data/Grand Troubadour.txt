@@ -1,0 +1,4 @@
+/micon Troubadour
+/macroerror off
+/ac "Battle Voice" <t> <wait.2>
+/ac "Troubadour" <t>
