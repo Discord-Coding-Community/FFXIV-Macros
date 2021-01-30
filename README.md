@@ -8,8 +8,6 @@ A Collection of Final Fantasy XIV Macros. Read our [GUIDELINES](https://github.c
 ## FFXIV Macros Guidelines
 Use of this repository is subject to the following Rules and/or Guidelines
 
-<img align="right" src="https://media1.tenor.com/images/f25bf0236e02814a38701addf44aadb4/tenor.gif" alt="https://media1.tenor.com/images/f25bf0236e02814a38701addf44aadb4/tenor.gif">
-
  - All Macro files **MUST** be placed into the appropriate (sub)folder
  - All Macro files **MUST** be kept up to date
  - All Macro files **MUST** have their own subfolder and `README.md` file
@@ -47,6 +45,8 @@ Failure to abide by the above Rules and/or Guildelines will result in said Macro
 
 
 ## Extra Links
+
+<img align="right" src="https://media1.tenor.com/images/f25bf0236e02814a38701addf44aadb4/tenor.gif" alt="https://media1.tenor.com/images/f25bf0236e02814a38701addf44aadb4/tenor.gif">
 
 - [FFXIV WIKI](https://en.wikipedia.org/wiki/Final_Fantasy_XIV/)
 - [MACRO GUIDE](https://ffxiv.consolegameswiki.com/wiki/Macro/)
