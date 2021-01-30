@@ -10,5 +10,10 @@ A Collection of Final Fantasy XIV Macros. Read our [GUIDELINES](https://github.c
 
 - [WIKI](https://en.wikipedia.org/wiki/Final_Fantasy_XIV/)
 - [GUIDELINES](https://github.com/phantomdev-github/FFXIV-Macros/blob/master/GUIDELINES.md)
+
+
+## Useful Guides
+
+
 - [MACRO GUIDE](https://ffxiv.consolegameswiki.com/wiki/Macro/)
 - [JOB GUIDE](https://eu.finalfantasyxiv.com/jobguide/battle/)
