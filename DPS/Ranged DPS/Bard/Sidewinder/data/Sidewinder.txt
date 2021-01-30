@@ -1,0 +1,5 @@
+/micon Sidewinder
+/macroerror off
+/ac "Venomous Bite" <t> <wait.2>
+/ac "Windbite" <t> <wait.2>
+/ac "Sidewinder" <t>

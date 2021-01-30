@@ -1,0 +1,5 @@
+/micon "Mage's Ballad"
+/macroerror off
+/ac "Venomous Bite" <t> <wait.2>
+/ac "Windbite" <t> <wait.2>
+/ac "Mage's Ballad" <t>

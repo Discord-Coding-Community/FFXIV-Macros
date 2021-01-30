@@ -1,3 +1,0 @@
-/micon "Flaming Arrow"
-/macroerror off
-/ac "Flaming Arrow" <t>
