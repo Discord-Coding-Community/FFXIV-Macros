@@ -1,4 +1,4 @@
-# Resurecction Cycler
+# Raise Cycler
 
 Cycles through the entire party starting with the targeted player and swiftly revives the first downed person.
 
@@ -6,8 +6,8 @@ Cycles through the entire party starting with the targeted player and swiftly re
 ## Skills Used
 
  - Swiftcast
- - Resurrection
+ - Raise
 
 ## Icon Used
 
- - Resurrection
+ - Raise

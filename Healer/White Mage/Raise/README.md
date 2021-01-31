@@ -1,6 +1,6 @@
 # Raise
 
-Swiftly casts Resurrection on the targeted player.
+Swiftly casts Raise on the targeted player.
 
 
 ## Skills Used
