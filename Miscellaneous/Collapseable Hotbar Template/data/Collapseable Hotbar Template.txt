@@ -1,0 +1,2 @@
+/hotbar copy BRD share 10
+/hotbar display 10
