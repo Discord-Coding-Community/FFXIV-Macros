@@ -1,0 +1,5 @@
+/macroerror off
+/micon "Raise"
+/p "You're not done yet! Get back in there!"
+/ac Swiftcast <me> <wait.2>
+/ac "Raise" <t>
