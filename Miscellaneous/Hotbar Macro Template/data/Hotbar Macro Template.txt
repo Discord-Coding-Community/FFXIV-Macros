@@ -1,2 +1,2 @@
-/hotbar copy BRD share 10
-/hotbar display 10
+/hotbar copy [CLASS INITIALS] share [HOTBAR NUMBER]
+/hotbar display [HOTBAR NUMBER]
