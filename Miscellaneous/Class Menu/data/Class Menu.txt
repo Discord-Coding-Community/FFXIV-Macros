@@ -1,0 +1,5 @@
+/merror off
+/hotbar copy BRD 10 share 10
+/hotbar copy BRD 9 share 9
+/hotbar display 10
+/hotbar display 9

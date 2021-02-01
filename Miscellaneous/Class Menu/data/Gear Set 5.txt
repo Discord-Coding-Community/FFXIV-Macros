@@ -1,0 +1,7 @@
+/micon 4 gearset
+/merror off
+/gs change 4
+/isort condition armoury ilv des
+/isort execute armoury
+/hotbar display 9
+/hotbar display 10
