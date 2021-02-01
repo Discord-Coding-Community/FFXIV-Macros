@@ -6,6 +6,12 @@ A series of Macros for use with creating a collapsable Class Menu to simplify bu
 ## Usage
 
  - Simply replace `[CLASS INITIALS]` with the initials for the class of which you are copying the shared hotbar from.
+
+ ```cs
+ex.
+    /hotbar copy BRD 10 share 10
+    /hotbar copy BRD 9 share 9
+ ```
  - Next, add all of the Gear Set Macros to both the shared and unshared versions of hotbars 9 and 10 rehide the both hotbars 9 and 10.
  - Once done add the Class Menu Macro to a visible Shared Hotbar.
 

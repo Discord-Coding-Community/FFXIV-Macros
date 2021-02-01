@@ -5,7 +5,11 @@ This Macro gives you a collapseable Shared Hotbar. Can be edited to have multipl
 ## Usage
 
  - Simply replace `[CLASS INITIALS]` with the initials for the class of which you are copying the shared hotbar from.
-    - For each new hotbar added make sure replace `[HOTBAR NUMBER]` with the hotbar number.
+```cs
+ex.
+    /hotbar copy BRD 10 share 10
+ ```
+ - For each new hotbar added make sure replace `[HOTBAR NUMBER]` with the hotbar number.
  - Next, add all of you items to both the shared and unshared versions of the hotbar(s) specified in the Macro and rehide the hotbar(s) specified in the Macro.
  - Once done add the Macro to a visible Shared Hotbar.
 
