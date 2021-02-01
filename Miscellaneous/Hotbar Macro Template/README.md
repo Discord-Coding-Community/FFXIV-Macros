@@ -15,6 +15,6 @@ ex.
 
 ## Notes
 
- - This Macro set can be finicky when setting up, so sometimes hiding and unhiding hotbars 9 and 10 before attempting to click the Class Menu Macro may be needed for it to save.
+ - This Macro set can be finicky when setting up, so sometimes hiding and unhiding the hotbar(s) specified in the Hotbar Macro before attempting to click it may be needed for it to save.
  - Make sure you are making these on the same class that the Class Menu copies the Gear Set Macros from for it to save.
  - Do **NOT** include the brackets `[]` in the Macro.
