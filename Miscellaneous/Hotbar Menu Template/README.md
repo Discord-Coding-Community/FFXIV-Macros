@@ -1,6 +1,7 @@
 # Hotbar Menu Template
 
-This Macro gives you a collapsable Hotbar Menu. It can be edited to have multiple hotbars if preferred. See the [Class Menu](https://github.com/Discord-Coding-Community/FFXIV-Macros/tree/master/Miscellaneous/Class%20Menu) Macro for an example of one with multiple Hotbars.
+This Macro gives you a collapsable Hotbar Menu. It can be edited to have multiple hotbars if preferred. 
+See the [Class Menu](https://github.com/Discord-Coding-Community/FFXIV-Macros/tree/master/Miscellaneous/Class%20Menu) Macro for an example of one with multiple Hotbars.
 
 ## Usage
 
