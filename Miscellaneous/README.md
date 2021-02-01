@@ -1,8 +1,8 @@
 # Miscellanious
+Macros of which don't use skills nor apply to specific classes.
 
 <img src="https://wallpapercave.com/wp/wp4432959.png" alt="https://wallpapercave.com/wp/wp4432959.png">
 
-This is where Macros that don't use skills or apply to specific classes are to be placed.
 
 The format for these Macro `README.md` files is as follows:
 
