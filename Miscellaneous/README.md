@@ -28,12 +28,7 @@ The Folder format for these Macro files is as follows:
 
 ### Notes
 
- Brackets `[]` refer to text to replace. **DO NOT** include the `[]` in the `README.md` file, just replace the necessary fields as instructed.
-
-These Guidelines are in place to keep the repo clean and manageable. So please be sure to abide by them when suggesting new Macro files.
-
-Failure to abide by the above Rules and/or Guildelines will result in said Macro files being deleted and/or rejected.
-
+ - Brackets `[]` refer to text to replace. **DO NOT** include the brackets `[]` in the `README.md` file, just replace the necessary fields as instructed.
 
 ## Extra Links
 
