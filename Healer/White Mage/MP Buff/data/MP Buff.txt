@@ -1,0 +1,5 @@
+/micon "Thin Air"
+/merror off
+/ac "Lucid Dreaming" <me> <wait.1>
+/ac "Presence of Mind" <me> <wait.1>
+/ac "Thin Air" <me>

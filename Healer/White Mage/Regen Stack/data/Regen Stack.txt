@@ -1,0 +1,4 @@
+/merror off
+/micon "Regen"
+/ac "Regen" <t> <wait.2>
+/ac "Medica II" <t>

@@ -1,0 +1,5 @@
+/micon "Temperance"
+/merror off
+/ac "Temperance" <me> <wait.1>
+/ac "Plenary Indulgence" <t> <wait.1>
+/ac "Afflatus Rapture" <t>
