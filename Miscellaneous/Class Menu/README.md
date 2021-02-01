@@ -13,4 +13,4 @@ A series of Macros for use with creating a collapsable Class Menu to simplify bu
 
  - This macro set can be finicky when setting up, so sometimes hiding and unhiding hotbars 9 and 10 before attempting to click the Class Menu Macro may be needed for it to save.
  - Make sure you are making these on the same class that the Class Menu copies the Gear Set Macros from for it to save.
- - This Macro set utlizes the [Hotbar Macro Template](https://github.com/Discord-Coding-Community/FFXIV-Macros/tree/master/Miscellaneous/Hotbar%20Macro%20Template).
+ - This Macro set utilizes the [Hotbar Macro Template](https://github.com/Discord-Coding-Community/FFXIV-Macros/tree/master/Miscellaneous/Hotbar%20Macro%20Template).
