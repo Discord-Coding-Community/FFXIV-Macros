@@ -1,4 +1,4 @@
-# Hotbar Macro Template
+# Hotbar Menu Template
 
 This Macro gives you a collapseable Shared Hotbar. Can be edited to have multiple hotbars if preferred.
 
