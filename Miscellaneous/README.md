@@ -1,5 +1,5 @@
 # Miscellanious
-Macros of which use no skills nor apply to specific classes.
+Macros of which use no skills nor apply to any specific Class and/or Job.
 
 <img src="https://wallpapercave.com/wp/wp4432959.png" alt="https://wallpapercave.com/wp/wp4432959.png">
 
