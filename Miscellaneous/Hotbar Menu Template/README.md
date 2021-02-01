@@ -17,5 +17,5 @@ This Macro gives you a collapseable Shared Hotbar. Can be edited to have multipl
 
  - This Macro set can be finicky when setting up, so sometimes unsharing and re sharing the hotbar(s) specified in the Hotbar Macro before attempting to click it may be needed for it to save.
  - Make sure the shared and un shared version(s) of the hotbar(s) specified in the Hotbar Macro are completely identical to each other.
- - Make sure you are making these on the same class that the Class Menu copies the Gear Set Macros from for it to save.
+ - Make sure you are making these on the same class that the Hotbar Menu Macro copies the Gear Set Macros from for it to save.
  - Do **NOT** include the brackets `[]` in the Macro.
